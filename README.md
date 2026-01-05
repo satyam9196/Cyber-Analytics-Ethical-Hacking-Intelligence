@@ -34,15 +34,17 @@ This project combines **Cyber Security**, **Ethical Hacking**, **Data Analytics*
 - Identifies peak attack time windows
 - Supports firewall and network security tuning
 
-### 5️⃣ Intrusion Detection System (IDS) Trends
+
+### 5️⃣ Cyber Risk Score
+- Combined multiple security metrics
+- Displays overall security health using a risk gauge
+- Current Status: **High Risk**
+
+ ### 6️⃣ Intrusion Detection System (IDS) Trends
 - Daily IDS alerts analysis
 - False positive comparison
 - Improves IDS effectiveness
 
-### 6️⃣ Cyber Risk Score
-- Combined multiple security metrics
-- Displays overall security health using a risk gauge
-- Current Status: **High Risk**
 
 ---
 
@@ -58,17 +60,12 @@ This project combines **Cyber Security**, **Ethical Hacking**, **Data Analytics*
 
 ## 🚀 How to Run the Project
 
-```bash
-# Clone the repository
-git clone https://github.com/your-username/cyber-analytics-ethical-hacking-dashboard.git
+git clone https://github.com/satyam9196/cyber-analytics-ethical-hacking-dashboard.git
 
-# Navigate to the project directory
 cd cyber-analytics-ethical-hacking-dashboard
 
-# Install dependencies
 pip install -r requirements.txt
 
-# Run the Streamlit app
 streamlit run app.py
 
 👨‍💻 Author
