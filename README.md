@@ -1,1 +1,79 @@
-# -Cyber-Analytics-Ethical-Hacking-Intelligence
+# 🛡️ Cyber Analytics & Ethical Hacking Intelligence Dashboard
+
+An interactive **Cyber Security Analytics Dashboard** built using **Python, Streamlit, and Plotly**, designed to monitor cyber threats, vulnerabilities, network traffic, and machine learning model performance.
+
+This project combines **Cyber Security**, **Ethical Hacking**, **Data Analytics**, and **Machine Learning** into a single intelligence platform.
+
+---
+
+## 📊 Dashboard Features
+
+### 1️⃣ Threat Detection Overview
+- Monthly cyber attack analysis
+- Comparison of total attacks vs blocked attacks
+- Helps identify attack growth trends
+
+### 2️⃣ Vulnerability Severity Analysis
+- Categorizes vulnerabilities into:
+  - Critical
+  - High
+  - Medium
+  - Low
+- Helps prioritize vulnerability remediation
+
+### 3️⃣ ML Model Performance Evaluation
+- Compared multiple ML models:
+  - Random Forest
+  - XGBoost
+  - Neural Network
+  - Logistic Regression
+- Identifies the most accurate model for threat detection
+
+### 4️⃣ Network Traffic Pattern Analysis
+- Normal vs Malicious traffic comparison
+- Identifies peak attack time windows
+- Supports firewall and network security tuning
+
+### 5️⃣ Intrusion Detection System (IDS) Trends
+- Daily IDS alerts analysis
+- False positive comparison
+- Improves IDS effectiveness
+
+### 6️⃣ Cyber Risk Score
+- Combined multiple security metrics
+- Displays overall security health using a risk gauge
+- Current Status: **High Risk**
+
+---
+
+## 🛠️ Tech Stack
+
+- **Python**
+- **Streamlit**
+- **Pandas**
+- **Plotly**
+- **Machine Learning (Scikit-learn concepts)**
+
+---
+
+## 🚀 How to Run the Project
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/cyber-analytics-ethical-hacking-dashboard.git
+
+# Navigate to the project directory
+cd cyber-analytics-ethical-hacking-dashboard
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the Streamlit app
+streamlit run app.py
+
+👨‍💻 Author
+
+Satyam Saha
+Cyber Security | Ethical Hacking | Data Science | Machine Learning
+
+⭐ If you like this project, don't forget to star the repository!
